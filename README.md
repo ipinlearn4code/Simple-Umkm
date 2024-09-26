@@ -1,5 +1,3 @@
-## This is ChatGPT's fully generated code that use CodeIgniter 4 Framework
-
 # UMKM Management System
 
 A web-based application built using **CodeIgniter 4** that allows users to manage small and medium enterprises (UMKM) data. This system includes basic CRUD (Create, Read, Update, Delete) functionality for managing different data entities such as business types, UMKM records, criteria, and weight data.
